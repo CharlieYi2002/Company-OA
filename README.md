@@ -1,4 +1,4 @@
-This code was written for the Blockhouse Full-Stack Engineer Intern role
+This code was written for an online OA
 
 This program uses the REST framework python library in the backend. The frontend uses the react-apexcharts and bootstrap.css for formatting.
 
