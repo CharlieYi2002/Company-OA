@@ -1,5 +1,3 @@
-This code was written for an online OA
-
 This program uses the REST framework python library in the backend. The frontend uses the react-apexcharts and bootstrap.css for formatting.
 
 To run this code navigate to /backend folder and run: "source venv/bin/activate" then "python manage.py runserver"
